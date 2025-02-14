@@ -1,0 +1,33 @@
+
+<!-- Add Objets An2 airplane + Mi8  Ssakhal  -->
+		<group name="Land_Static_An2" lootmax="14">
+				<usage name="Military" />
+				<container name="lootFloor" lootmax="14">
+						<category name="weapons" />	
+						<category name="clothes" />						
+						<point pos="1.150120 0.000000 -0.098928" range="1" height="1" /> 
+						<point pos="5.430344 0.000000 1.059630" range="1" height="1" /> 
+						<point pos="-0.506890 0.000000 1.852611" range="1" height="1" /> 
+						<point pos="1.978798 -0.417443 1.921489" range="1" height="1" /> 
+						<point pos="3.750186 0.000000 1.544695" range="1" height="1" /> 
+						<point pos="3.046703 0.000000 -2.178149" range="1" height="1" /> 
+						<point pos="-0.199866 0.000000 -3.354329" range="1" height="1" /> 
+						<point pos="-3.658113 0.000000 -2.718881" range="1" height="1" /> 
+				</container>
+				
+		<group name="Land_Static_Mi8_Civilian" lootmax="15">
+				<usage name="Military" />
+				<container name="lootFloor" lootmax="15">
+						<category name="clothes" />
+						<category name="weapons" />
+						<point pos="-5.292709 0.000000 2.698875" range="1.200000" height="2.000000" flags="32" />
+						<point pos="-6.739676 0.000000 -0.693575" range="1.200000" height="1.369254" flags="32" />
+						<point pos="-4.381643 0.000000 -3.373720" range="1.200000" height="2.000000" flags="32" />
+						<point pos="-0.738392 0.000000 -2.882844" range="1.200000" height="2.000000" flags="32" />
+						<point pos="2.422888 0.000000 -3.248473" range="1.200000" height="2.000000" flags="32" />
+						<point pos="4.245002 0.000000 -0.734614" range="1.200000" height="2.000000" flags="32" />
+						<point pos="3.040225 0.000000 1.879938" range="1.200000" height="2.000000" flags="32" />
+						<point pos="-0.023482 0.000000 4.048484" range="1.200000" height="2.000000" flags="32" />
+						<point pos="-2.671984 0.000000 3.735730" range="1.200000" height="2.000000" flags="32" />
+				</container>
+		</group>		
